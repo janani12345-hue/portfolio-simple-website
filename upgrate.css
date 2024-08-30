@@ -1,0 +1,127 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+            
+}
+.container{
+    margin:30px;
+
+   
+}
+.section-one{
+    background-color:black;
+    color:white;
+    padding:20px;
+}
+.section-one__name{
+    font-size:50px;
+}
+.section-one__contact{
+    background-color:orange;
+    color:white;
+    text-decoration:none;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom: 5px;
+    padding-top:5px;
+    margin-top:10px;
+    display:inline-block;
+}
+.section-one__role{
+    font-size:25px;
+}
+.section-two, .section-three,.section-four,.section-five{
+    margin-top:20px;
+}
+.section-five{
+    background-color:black;
+    color:white;
+    padding:20px;
+}
+.section-five__title a{
+    color:skyblue;
+}
+.section-three{
+    background-color:blueviolet;
+    color:black;
+    display:inline-block;
+    padding:30px;
+    height:200px;
+    border-radius:5px;
+    vertical-align: top;
+}
+.section-three__desc li,.section-four__desc li{
+    list-style-type:none;
+
+}
+.section-three__desc{
+    margin-top:20px;
+}
+.section-four{
+    background-color:orangered;
+    padding:30px;
+    display:inline-block;
+    border-radius: 5px;
+}
+.section-two__desc{
+    margin-top:20px;
+}
+.section-four__des,.section-five__desc{
+    margin-top:20px;
+}
+.section-contact{
+    background-color:black;
+    color:white;
+    padding:20px;
+}
+.section-contact__title{
+    font-size:50px;
+
+}
+.section-contact__role{
+    font-size:25px;
+}
+.section-contact__de {
+    background-color:orange;
+   color:white;
+    text-decoration:none;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    display:inline-block;
+    margin-top:10px;
+}
+.section-form{
+    margin:20px;
+}
+.section-form__input,.section-form__dpdn,.section-form__textarea,.section-form__button{
+    margin-top:16px;
+    padding:10px;
+    
+}
+.section-form__input{
+    border:none;
+    border-bottom:solid 2px black;
+
+}
+.section-form__dpdn,.section-form__textarea{
+    border:black solid 2px;
+
+}
+.section-form__button{
+    background-color:orange;
+    color:black;
+    padding:10px;
+    border:none;
+}
+.section-five__{
+   
+}
